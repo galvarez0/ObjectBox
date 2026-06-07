@@ -1,0 +1,8 @@
+.gradle/
+build/
+.idea/
+*.iml
+objectbox-models/
+objectbox-model.json
+person-db/
+notes-db/
